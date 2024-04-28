@@ -256,7 +256,7 @@
 
 <h2>
 ✨ You can find me in ✨
- 
+ <br><br>
 <div class="social">
   <a href="https://www.linkedin.com/in/aung-thu-win/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
