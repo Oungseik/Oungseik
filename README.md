@@ -143,7 +143,7 @@
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>Hono</center></b></span> 
+  <div><b><center>Hono</center></b></div> 
   <img src="./images/hono.svg"/>
   </td>
 
