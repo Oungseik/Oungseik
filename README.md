@@ -77,7 +77,7 @@
   </td>
 
   <td align="center" width="12%">
-    <span><b><center>Rust</center></b></span> 
+    <div><b><center>Rust</center></b></div> 
     <img src="./images/rust.svg"/>
   </td>
 
