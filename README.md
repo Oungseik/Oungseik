@@ -1,4 +1,4 @@
-# Hello, I'm Aung Thu Win (You can call me Oung) 👨‍💻
+# Hello, I'm Aung Thu Win (You can call me Oung) 👨💻
 
 - 👋 I'm Back-end/Full-stack Developer from Mawlamyine, Myanmar. Currently working as a Back-end Developer in [Brillar.io](https://www.brillar.io/)
 - 👀 I’m interested in Computer Science and Mathematics.
@@ -68,27 +68,27 @@
 
   <td align="center" width="12%">
     <div><b><center>TypeScript</center></b></div> 
-    <img width="56" height=65px src="https://img.icons8.com/color/64/typescript.png"> 
+    <img height="65px" src="https://img.icons8.com/color/64/typescript.png"> 
   </td>
 
   <td align="center" width="12%">
-    <div><b><center>TypeScript</center></b></div> 
-    <img width="56" height=65px src="https://img.icons8.com/color/64/javascript.png"> 
+    <div><b><center>JavaScript</center></b></div> 
+    <img height="65px" src="https://img.icons8.com/color/64/javascript.png"> 
   </td>
 
   <td align="center" width="12%">
     <div><b><center>Rust</center></b></div> 
-    <img width="56" src="./images/rust.svg"/>
+    <img height="65px" src="./images/rust.svg"/>
   </td>
 
   <td align="center" width="12%">
     <div><b><center>Haskell</center></b></div> 
-    <img width="56" height=65px src="https://img.icons8.com/color/64/haskell.png"> 
+    <img height="65px"  src="https://img.icons8.com/color/64/haskell.png"> 
   </td>
 
   <td align="center" width="12%">
   <div><b><center>Python</center></b></div> 
-  <img width="56" height=65px src="https://img.icons8.com/color/64/python.png"> 
+  <img height="65px" src="https://img.icons8.com/color/64/python.png"> 
   </td>
 
   <td align="center" width="12%">
@@ -104,27 +104,27 @@
 
 <td align="center" width="12%">
 <div><b><center>Svelte</center></b></div> 
-<img width="56" src="./images/svelte.svg"/>
+<img height="65px" src="./images/svelte.svg"/>
 </td>
 
 <td align="center" width="12%">
 <div><b><center>NextJS</center></b></div> 
-<img width="56" src="./images/next.svg"/>
+<img height="65px" src="./images/next.svg"/>
 </td>
 
 <td align="center" width="12%">
 <div><b><center>React</center></b></div> 
-<img width="56" src="./images/react.svg"/>
+<img height="65px" src="./images/react.svg"/>
 </td>
 
 <td align="center" width="12%">
   <div><b><center>Vue</center></b></div> 
-<img width="56" src="./images/vue.svg"/>
+<img height="65px" src="./images/vue.svg"/>
 </td>
 
 <td align="center" width="12%">
 <div><b><center>Tailwind</center></b></div> 
-<img width="56" src="./images/tailwind.svg"/>
+<img height="65px" src="./images/tailwind.svg"/>
 </td>
 
 <td align="center" width="12%"></td>
@@ -139,37 +139,37 @@
 
   <td align="center" width="12%">
   <div><b><center>Express.js</center></b></div> 
-  <img width="56" src="./images/express.svg"/>
+  <img height="65px" src="./images/express.svg"/>
   </td>
 
   <td align="center" width="12%">
   <div><b><center>Hono</center></b></div> 
-  <img width="56" src="./images/hono.svg"/>
+  <img height="65px" src="./images/hono.svg"/>
   </td>
 
   <td align="center" width="12%">
   <div><b><center>Effect.js</center></b></div> 
-  <img width="56" src="./images/effect.svg"/>
+  <img height="65px" src="./images/effect.svg"/>
   </td>
 
   <td align="center" width="12%">
   <div><b><center>tRPC</center></b></div> 
-  <img width="56" src="./images/trpc.svg"/>
+  <img height="65px" src="./images/trpc.svg"/>
   </td>
 
   <td align="center" width="12%">
   <div><b><center>Socket.io</center></b></div> 
-  <img width="56" src="./images/socket-io.svg"/>
+  <img height="65px" src="./images/socket-io.svg"/>
   </td>
 
   <td align="center" width="12%">
   <div><b><center>Drizzle</center></b></div> 
-  <img width="56" src="./images/drizzle.svg"/>
+  <img height="65px" src="./images/drizzle.svg"/>
   </td>
 
   <td align="center" width="12%">
   <div><b><center>Prisma</center></b></div> 
-  <img width="56" src="./images/prisma.svg"/>
+  <img height="65px" src="./images/prisma.svg"/>
   </td>
 
 </tr>
@@ -178,17 +178,17 @@
 
   <td align="center" width="12%">
   <div><b><center>MongoDB</center></b></div> 
-  <img width="56" height=65px src="https://img.icons8.com/color/64/mongodb.png"> 
+  <img height="65px"  src="https://img.icons8.com/color/64/mongodb.png"> 
   </td>
 
   <td align="center" width="12%">
   <div><b><center>MySQL</center></b></div> 
-  <img width="56" height=65px src="https://img.icons8.com/color/64/mysql.png"> 
+  <img height="65px"  src="https://img.icons8.com/color/64/mysql.png"> 
   </td>
 
   <td align="center" width="12%">
-  <div><b><center>PostgreSQL</center></b></div> 
-  <img width="56" src="./images/postgre.svg"/>
+  <div><b><center>Postgre</center></b></div> 
+  <img height="65px" src="./images/postgre.svg"/>
   </td>
 
   <td align="center" width="12%"></td>
@@ -205,24 +205,24 @@
 
 <td align="center" width="12%">
 <div><b><center>Linux</center></b></div> 
-<img width="56" height=65px src="https://img.icons8.com/color/64/linux.png"> 
+<img height="65px"  src="https://img.icons8.com/color/64/linux.png"> 
 </td>
 
 
 <td align="center" width="12%">
 <div><b><center>Docker</center></b></div> 
-<img width="56" height=65px src="https://img.icons8.com/color/64/docker.png"> 
+<img height="65px" src="https://img.icons8.com/color/64/docker.png"> 
 </td>
 
 <td align="center" width="12%">
 <div><b><center>NeoVim</center></b></div> 
-<img width="56" src="./images/neovim.svg"/>
+<img height="65px" src="./images/neovim.svg"/>
 </td>
 
 
 <td align="center" width="12%">
 <div><b><center>Tmux</center></b></div> 
-<img width="56" src="./images/tmux.svg"/>
+<img height="65px" src="./images/tmux.svg"/>
 </td>
 
 <td align="center" width="12%"></td>
