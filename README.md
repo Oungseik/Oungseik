@@ -67,12 +67,12 @@
 <!-- Programming Languages -->
 
   <td align="center" width="12%">
-    <span><b><center>TypeScript</center></b></span> 
+    <div><b><center>TypeScript</center></b></div> 
     <img height=65px src="https://img.icons8.com/color/64/typescript.png"> 
   </td>
 
   <td align="center" width="12%">
-    <span><b><center>TypeScript</center></b></span> 
+    <div><b><center>TypeScript</center></b></div> 
     <img height=65px src="https://img.icons8.com/color/64/javascript.png"> 
   </td>
 
@@ -82,12 +82,12 @@
   </td>
 
   <td align="center" width="12%">
-    <span><b><center>Haskell</center></b></span> 
+    <div><b><center>Haskell</center></b></div> 
     <img height=65px src="https://img.icons8.com/color/64/haskell.png"> 
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>Python</center></b></span> 
+  <div><b><center>Python</center></b></div> 
   <img height=65px src="https://img.icons8.com/color/64/python.png"> 
   </td>
 
@@ -103,27 +103,27 @@
 <tr>
 
 <td align="center" width="12%">
-<span><b><center>Svelte</center></b></span> 
+<div><b><center>Svelte</center></b></div> 
 <img src="./images/svelte.svg"/>
 </td>
 
 <td align="center" width="12%">
-<span><b><center>NextJS</center></b></span> 
+<div><b><center>NextJS</center></b></div> 
 <img src="./images/next.svg"/>
 </td>
 
 <td align="center" width="12%">
-<span><b><center>React</center></b></span> 
+<div><b><center>React</center></b></div> 
 <img src="./images/react.svg"/>
 </td>
 
 <td align="center" width="12%">
-  <span><b><center>Vue</center></b></span> 
+  <div><b><center>Vue</center></b></div> 
 <img src="./images/vue.svg"/>
 </td>
 
 <td align="center" width="12%">
-<span><b><center>Tailwind</center></b></span> 
+<div><b><center>Tailwind</center></b></div> 
 <img src="./images/tailwind.svg"/>
 </td>
 
@@ -138,7 +138,7 @@
 <tr>
 
   <td align="center" width="12%">
-  <span><b><center>Express.js</center></b></span> 
+  <div><b><center>Express.js</center></b></div> 
   <img src="./images/express.svg"/>
   </td>
 
@@ -148,27 +148,27 @@
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>Effect.js</center></b></span> 
+  <div><b><center>Effect.js</center></b></div> 
   <img src="./images/effect.svg"/>
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>tRPC</center></b></span> 
+  <div><b><center>tRPC</center></b></div> 
   <img src="./images/trpc.svg"/>
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>Socket.io</center></b></span> 
+  <div><b><center>Socket.io</center></b></div> 
   <img src="./images/socket-io.svg"/>
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>Drizzle</center></b></span> 
+  <div><b><center>Drizzle</center></b></div> 
   <img src="./images/drizzle.svg"/>
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>Prisma</center></b></span> 
+  <div><b><center>Prisma</center></b></div> 
   <img src="./images/prisma.svg"/>
   </td>
 
@@ -177,17 +177,17 @@
 <tr>
 
   <td align="center" width="12%">
-  <span><b><center>MongoDB</center></b></span> 
+  <div><b><center>MongoDB</center></b></div> 
   <img height=65px src="https://img.icons8.com/color/64/mongodb.png"> 
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>MySQL</center></b></span> 
+  <div><b><center>MySQL</center></b></div> 
   <img height=65px src="https://img.icons8.com/color/64/mysql.png"> 
   </td>
 
   <td align="center" width="12%">
-  <span><b><center>PostgreSQL</center></b></span> 
+  <div><b><center>PostgreSQL</center></b></div> 
   <img src="./images/postgre.svg"/>
   </td>
 
@@ -204,24 +204,24 @@
 <tr>
 
 <td align="center" width="12%">
-<span><b><center>Linux</center></b></span> 
+<div><b><center>Linux</center></b></div> 
 <img height=65px src="https://img.icons8.com/color/64/linux.png"> 
 </td>
 
 
 <td align="center" width="12%">
-<span><b><center>Docker</center></b></span> 
+<div><b><center>Docker</center></b></div> 
 <img height=65px src="https://img.icons8.com/color/64/docker.png"> 
 </td>
 
 <td align="center" width="12%">
-<span><b><center>NeoVim</center></b></span> 
+<div><b><center>NeoVim</center></b></div> 
 <img src="./images/neovim.svg"/>
 </td>
 
 
 <td align="center" width="12%">
-<span><b><center>Tmux</center></b></span> 
+<div><b><center>Tmux</center></b></div> 
 <img src="./images/tmux.svg"/>
 </td>
 
