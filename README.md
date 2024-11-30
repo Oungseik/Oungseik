@@ -1,4 +1,4 @@
-# Hello, I'm Aung Thu Win (You can call me Oung) 👨💻
+# Hello, I'm Oung Seik Nyan (You can call me Oung) 👨💻
 
 - 👋 I'm Back-end/Full-stack Developer from Mawlamyine, Myanmar. Currently working as a Back-end Developer in [Brillar.io](https://www.brillar.io/)
 - 👀 I’m interested in Computer Science and Mathematics.
