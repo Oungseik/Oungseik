@@ -1,8 +1,8 @@
 # Hello, I'm Oung Seik Nyan (You can call me Oung) 👨💻
 
-- 👋 I'm Back-end/Full-stack Developer from Mawlamyine, Myanmar. Currently working as a Back-end Developer in [Brillar.io](https://www.brillar.io/)
+- 👋 I'm Back-end/Full-stack Developer from Mawlamyine, Myanmar. Currently working as a Full-stack Developer in [Crossworks Myanmar](https://www.crossworks.info/)
 - 👀 I’m interested in Computer Science and Mathematics.
-- 🌱 I’m currently learning ️Functional Programming, Type-system, Domain Driven Design and Operating System.
+- 🌱 I’m currently learning ️Formal Method.
 - 🎓 Studied Mathematics at Mawlamyine University and graduated at February, 2019.
 -  My programming advanture started from August, 2019. Targeting to be a Data Scientist but, now I'm a full-stack developer.
 - ⚡️ I love to mess myself with Linux stuffs like, ricing window-manager, installing and configuring ArchLinux and NixOS.
