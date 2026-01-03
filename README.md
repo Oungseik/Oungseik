@@ -4,7 +4,7 @@
 - 👀 I’m interested in Computer Science and Mathematics.
 - 🌱 I’m currently learning ️Formal Method.
 - 🎓 Studied Mathematics at Mawlamyine University and graduated at February, 2019.
--  My programming advanture started from August, 2019. Targeting to be a Data Scientist but, now I'm a full-stack developer.
+-  My programming advanture started from August, 2019.
 - ⚡️ I love to mess myself with Linux stuffs like, ricing window-manager, installing and configuring ArchLinux and NixOS.
 
 <br>
