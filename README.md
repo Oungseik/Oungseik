@@ -82,10 +82,6 @@
     <img height="65px" src="./images/rust.svg"/>
   </td>
 
-  <td align="center" width="12%">
-    <div><b><center>Haskell</center></b></div> 
-    <img height="65px"  src="https://img.icons8.com/color/64/haskell.png"> 
-  </td>
 
   <td align="center" width="12%">
   <div><b><center>Python</center></b></div> 
